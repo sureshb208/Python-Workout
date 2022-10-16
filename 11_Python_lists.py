@@ -2,7 +2,8 @@
 
 
 
-#Lists are like dynamic arrays in python which can hold hetrogenious values
+#Lists are like dynamic arrays in python which can hold hetrogenious values.
+#lists are actually mutable in nature
 
 
 
