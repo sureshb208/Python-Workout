@@ -1,5 +1,11 @@
 # Python Program for LISTS
 
+
+
+#Lists are like dynamic arrays in python which can hold hetrogenious values
+
+
+
 arr_list1 = [1]
 arr_list2 = [1,2,3,4,7]
 arr_list3 = [1,2,"HI",98.2,"Hello"]
